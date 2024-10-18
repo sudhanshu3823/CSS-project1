@@ -1,0 +1,33 @@
+*{background-color: black;
+color: white;}
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{border: 5px solid yellow;
+margin-left: 90px;
+padding: 20px;}
+
+.poster{position: absolute;
+border: 2px solid white;
+padding: 20px;
+}
+
+h1{text-transform: uppercase;
+     font-family: "Gravitas One", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    p{font-family: "Caudex", serif;
+        font-weight: 400;
+        font-style: normal;
+         text-transform: uppercase;
+         text-align: center;}
+
+    
